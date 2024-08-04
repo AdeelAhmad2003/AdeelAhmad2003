@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adee Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Adeel Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakitan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelahmad2003" alt="adeelahmad2003" /></a> </p>
